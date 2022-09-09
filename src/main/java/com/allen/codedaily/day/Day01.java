@@ -1,4 +1,4 @@
-package com.example.codedaily.day;
+package com.allen.codedaily.day;
 
 /**
  * @author allen

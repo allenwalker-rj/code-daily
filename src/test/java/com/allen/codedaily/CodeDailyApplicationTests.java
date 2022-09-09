@@ -1,4 +1,4 @@
-package com.example.codedaily;
+package com.allen.codedaily;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
