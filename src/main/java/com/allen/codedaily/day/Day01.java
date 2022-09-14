@@ -5,7 +5,7 @@ import java.util.logging.Logger;
 /**
  * @author allen
  * @date 2022/9/9 16:00
- * @deprecated
+ * @description
  * 两段代码的逻辑都比较简单，实现两个 String 的比较是否相同，按照我们正常的逻辑来看，应该选择方法一，
  * 主要原因是：
  * 我们完全不需要去比较全部的字符，只需要比较遇到的第一个不一样的字符时，直接返回 false 即可。
