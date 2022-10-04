@@ -6,3 +6,12 @@ person:
   lists:
     - man
     - weman
+    -
+
+keyboard:
+  name: 迈从
+  logo: MCHOSE
+  isMechanical: true
+  axis: red
+  keycaps: pbt
+  keysNum: 99
